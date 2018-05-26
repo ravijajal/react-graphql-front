@@ -1,4 +1,4 @@
-## React Graphql Front
+## React GraphQL Front
 ```
 cd react-graphql-front
 
